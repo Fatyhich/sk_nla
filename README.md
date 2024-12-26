@@ -22,6 +22,7 @@ Welcome to the **NLA** repository! This repository contains my solutions to the 
 This repository includes solutions to the following problem sets:
 
 1. **Problem Set 1: Norms, kNN, Monte-Carlo inverse**
+2. **Problem Set 2: Tensor Train by Oseledets, Nested dissection (aka fast Cholesky), FFT**
 
 
 ### Usage
